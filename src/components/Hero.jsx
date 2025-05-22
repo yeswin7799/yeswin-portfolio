@@ -8,7 +8,7 @@ const Hero = () => {
     >
       <div className="bg-gradient-to-br from-rose-50 via-orange-50 to-amber-50/90 backdrop-blur-md p-8 rounded-lg shadow-md max-w-xl">
         <h1 className="text-4xl font-bold mb-4 text-rose-800">
-          Hi, I'm YesWin Chintapalli
+          Hi, I'm Yeswin Chintapalli
         </h1>
         <p className="text-lg text-gray-800 mb-6">
           A passionate Software Developer & Computer Science Graduate Student at Purdue University Fort Wayne.
