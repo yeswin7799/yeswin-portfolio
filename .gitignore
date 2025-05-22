@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Vercel + local logs
+.vercel/
+.vercel_build_output/
+*.log
+
+# Mac/VSCode/OS-specific
+.DS_Store
+.env
+.vscode/
